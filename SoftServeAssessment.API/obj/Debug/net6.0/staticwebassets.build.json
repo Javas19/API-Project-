@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LNE/dH9PL1RQzA1vbLzVdpBz7cq65YeBSNCjejMgD5s=",
+  "Source": "SoftServeAssessment.API",
+  "BasePath": "_content/SoftServeAssessment.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

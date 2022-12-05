@@ -1,0 +1,2 @@
+# SoftServeAssessment.API
+ FullStack Assessment
